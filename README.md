@@ -1,2 +1,8 @@
 # higher-ed-investors
 HigherEd Investors Georgetown Data Analytics Capstone Project
+
+Abstract
+
+How can universities determine which adult continuing education programs students will enroll in to prepare themselves for meaningful jobs?  For that matter, how should students determine which types of adult continuing education will help them achieve their career objectives?  Finally, how can employers determine which types of adult continuing education programs produce candidates who have the capability to add value to the hiring organization?
+The purpose of this paper is to attempt to answer these questions through analysis of Occupational Employment Statistics (OES) data provided by the U.S. Department of Labor - Bureau of Labor Statistics (BLS).  The data science team attempted to build a meaningful predictive model to determine the expected number of employees in 22 occupational categories on both national and state levels based on features present in the BLS data set.  A statistically-significant predictive model would benefit educational institutions, students, and employers in making better decisions on how to best deploy their scarce resources. The team attempted to explore several supervised and unsupervised machine learning techniques such as regression analysis, decision trees (including random forest) and clustering using the Scikit-learn and Pandas modules in Python to depict meaningful patterns in the data set. While the team was unable to identify a meaningful predictive model during its exploration, the team was able to create meaningful visualizations using Tableau that provide useful insight and have marginal predictive value.
+
